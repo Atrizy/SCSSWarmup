@@ -1,0 +1,9 @@
+#page-footer {
+  display: grid;
+  padding-top: 5vh;
+
+  > p {
+    align-self: center;
+    justify-self: center;
+  }
+}
