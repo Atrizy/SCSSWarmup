@@ -25,6 +25,7 @@
       align-self: center;
   -ms-grid-column-align: center;
       justify-self: center;
+  color: white;
 }
 
 * {
@@ -40,6 +41,7 @@ body {
   display: -ms-grid;
   display: grid;
   grid-auto-flow: row;
+  color: white;
 }
 
 #body-picture {
